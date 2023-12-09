@@ -1,22 +1,9 @@
-{
-  "name1": {
-    "name": "Gigo",
-    "description": "Project description",
-    "project": "Gigo",
-    "image": "ipfs://QmUa3Fnw5oiE9xcRoGbhY7FvdgWeqxcjwxkBs2R1JiV93R",
-    "mediaType": "image/png",
-    "background": "Blue",
-    "eyes": "Red",
-    "clothes": "Doctor"
-  },
-  "name2": {
-    "name": "Gogi",
-    "description": "Project description",
-    "project": "Gigo",
-    "image": "ipfs://QmUa3Fnw5oiE9xcRoGbhY7FvdgWeqxcjwxkBs2R1JiV93R",
-    "mediaType": "image/png",
-    "background": "Blue",
-    "eyes": "Red",
-    "clothes": "Doctor"
-  }
-}
+[{
+  "name": "Gigo #1",
+  "description": "",
+  "image": "ipfs://Qmb4nrHcFY71UvMBqZp25wjeW1VLTMVsnu9Bor2VPqUnPy/1.png",
+  "edition": 1,
+  "artist": "Meki",
+  "attributes": []
+},
+]
