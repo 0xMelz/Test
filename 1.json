@@ -1,0 +1,22 @@
+{
+  "name1": {
+    "name": "Gigo",
+    "description": "Project description",
+    "project": "Gigo",
+    "image": "ipfs://QmUa3Fnw5oiE9xcRoGbhY7FvdgWeqxcjwxkBs2R1JiV93R",
+    "mediaType": "image/png",
+    "background": "Blue",
+    "eyes": "Red",
+    "clothes": "Doctor"
+  },
+  "name2": {
+    "name": "Gogi",
+    "description": "Project description",
+    "project": "Gigo",
+    "image": "ipfs://QmUa3Fnw5oiE9xcRoGbhY7FvdgWeqxcjwxkBs2R1JiV93R",
+    "mediaType": "image/png",
+    "background": "Blue",
+    "eyes": "Red",
+    "clothes": "Doctor"
+  }
+}
